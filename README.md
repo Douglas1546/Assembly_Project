@@ -1,2 +1,2 @@
 # Assembly_Project
-## cesar encryption in assembly, MASM32
+## Cesar encryption in assembly, MASM32
